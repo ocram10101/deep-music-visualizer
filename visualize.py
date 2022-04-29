@@ -1,3 +1,4 @@
+import numpy
 import librosa
 import argparse
 import numpy as np
